@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\Visual Studio 2022\Projects\encryptionApp\encryptionApp\bin\Debug\net6.0-windows\app.publish\encryptionApp.exe
+\\Mac\Home\Documents\Visual Studio 2022\Projects\encryptionApp\encryptionApp\bin\Debug\net6.0-windows\app.publish\encryptionApp.dll
+\\Mac\Home\Documents\Visual Studio 2022\Projects\encryptionApp\encryptionApp\bin\Debug\net6.0-windows\app.publish\encryptionApp.deps.json
+\\Mac\Home\Documents\Visual Studio 2022\Projects\encryptionApp\encryptionApp\bin\Debug\net6.0-windows\app.publish\encryptionApp.runtimeconfig.json
+\\Mac\Home\Documents\Visual Studio 2022\Projects\encryptionApp\encryptionApp\bin\Debug\net6.0-windows\app.publish\encryptionApp.pdb
+\\Mac\Home\Documents\Visual Studio 2022\Projects\encryptionApp\encryptionApp\bin\Debug\net6.0-windows\app.publish\BouncyCastle.Crypto.dll
